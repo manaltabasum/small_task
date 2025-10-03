@@ -1,0 +1,40 @@
+
+.div1 {
+    border: 1px solid brown;
+    font-size: 18px;
+    padding: 15px;
+    box-shadow: 1px 1px 3px gray;
+}
+.heading1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: 17;
+    margin-top: 63px;
+  }
+  
+  @keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:rgb(122, 46, 105); left:0px; top:0px;}
+  }
+.table:hover{
+    background-color: black;
+    color:aliceblue;
+
+}
+.table{
+    margin-top:40px;
+}
+.div5 hr{
+    border:2px solid blueviolet;
+}

@@ -1,0 +1,52 @@
+table{
+    border-collapse:collapse;
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 50px;
+}
+th, td {
+    border: 2px solid black;
+}
+.w1 {
+    background: #FFFF00;
+    text-align:right;
+}
+
+
+.w3 {
+    background: #B7DEE8;
+    text-align:right;
+}
+.w4 {
+    background: #B7DEE8;
+    text-align:right;
+}
+.w5 {
+    background: #FBD4B4;
+    text-align:right;
+}
+.w6{
+    background: #92D050;
+}
+.w7{
+    align:center;
+}
+.w8{
+    text-align:right;
+}
+.w9{
+    text-align:center;
+    font-weight:700;
+}
+.w10{
+    background: #FFFF00;
+    text-align: center;
+}
+.w11{
+    background: #FBD4B4;
+    text-align: center;
+    padding:4px;
+}
+.w12{
+    padding:4px;
+}

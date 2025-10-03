@@ -1,0 +1,29 @@
+.navbar-nav{
+   margin-left:150px;
+   
+    
+}
+.navbar-nav li{
+    padding-left: 30px;
+   
+}
+.card-img-top{
+    height:350px;
+}
+.card{
+    margin-top:50px;
+    box-shadow: 2px 3px 5px rgb(218, 209, 209);
+}
+button{
+    margin-top:50px;
+}
+.list-group{
+    margin-top:50px;
+}
+.button1{
+    font-family: monospace;
+    margin-bottom:30px;
+}
+.para{
+    margin-top:50px;
+}

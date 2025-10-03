@@ -1,0 +1,71 @@
+button{
+    cursor:pointer;
+}
+.fb {
+    border-radius: 7px;
+    margin: 0 auto;
+    width: 485px;
+    height: 440px;
+    margin-top: 70px;
+    background: white;
+    padding-top: 28px;
+    border:.5px solid  #f2f4f7;
+    box-shadow: 6px 9px 12px #9ea0a3;
+
+}
+body {
+    background: #f2f4f7;
+}
+.name1 input {
+    border: 1px solid #cfd8e4;
+    width: 380px;
+    height: 18px;
+    padding: 20px;
+    border-radius: 7px;
+    font-size: 18px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    
+    display: block;
+    padding-top: 25px;
+}
+.name1 button{
+    border: 2px solid white;
+    width: 424px;
+    height: 55px;
+    background-color: #0866FF;
+    color: white;
+    font-size: 20px;
+    border-radius: 9px;
+    margin-left: 30px;
+    padding-bottom: 0px;
+    font-weight: 600;
+    margin-bottom: 23px;
+}
+p {
+    margin-left: 36%;
+    color:#0866FF;
+}
+hr{
+    width: 410px;
+    margin-top: 35px;
+    border: 1px solid  #cfd8e4;
+}
+
+.name3 button {
+    background-color: #66bf54;
+    height: 57px;
+    width: 214px;
+    color: white;
+    font-size: 13px;
+    border: 2px solid white;
+    border-radius: 9px;
+    font-size: 18px;
+    margin-left: 26%;
+    margin-top: 6%;
+}
+.name4{
+margin-left: 39%;
+margin-top: 2%;
+word-spacing:1px;
+}

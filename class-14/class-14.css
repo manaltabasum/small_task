@@ -1,0 +1,165 @@
+*{margin:0;padding:0;outline:0;}
+
+.head1{
+    width:1535px;
+    height:150px;
+    position:relative;
+    background-color:#FBF8F8;
+
+}.cls1{
+    color:#11a5e2;
+    font-size:40px;
+    text-indent:100px;
+    font-weight:300;
+    
+    
+}
+
+.cls2{
+    color:#11a5e2;
+    text-indent:235px;
+    letter-spacing:7px;
+    font-size:15px;
+   
+}
+
+
+.cls3{
+    font-size:20px;
+    word-spacing:2px;
+    letter-spacing:0.5px;
+     color:#11a5e2;
+    text-indent:110px;
+        
+}
+.div1{
+    border:1px solid #FBF8F8;;
+    margin-top: 30px;
+    position:absolute;
+    margin-left:320px;
+    
+}
+.img1{
+    height:90px;
+    width:100px;
+    margin-left:170px;
+    margin-top:30px;
+    position:absolute;
+}
+
+.cls4{
+    padding: 5px;
+    float:right;
+   
+    text-indent:2px;
+    font-size:15px
+}
+.icons img{
+    width:30px;
+    height:30px;
+   margin-top:2px;
+    float:right;
+    margin-right:25px;
+  
+
+}
+.div2{
+    position:relative;
+    background:#FBF8F8;
+    width:400px;
+    height:100px;
+    float:right;
+    margin-right:120px;
+    margin-top:40px;
+}
+.w0 img{
+    margin-left:4px;
+}
+.w0{
+    display:inline-flex;
+    margin-left:50px;
+    margin-top:20px;
+}
+.icons{
+    margin-right:120px;
+}
+
+.cls5 li{
+    display:inline-flex;
+    padding:15px;
+    font-size:18px;
+    text-align:center;
+    
+}
+.cls5{
+    text-align:center;
+    color:white;
+    background: #35A7F2;
+    width:1700px;
+}
+.cls5 a {
+    text-decoration: none;
+    color:white;
+}
+.w1{
+    background: black;
+}
+.cls5 li:hover{
+    background: rgb(44, 42, 42);
+}
+.img2 img{
+    height: 500px;
+    width:1900px;
+    margin-bottom:30px;
+}
+
+.para1{
+    font-size:33px;
+}
+.para2{
+    margin-top:20px;
+    color:gray;
+}
+.para{
+    height:300px;
+    width:530px;
+    text-align:justify;
+    margin-left:220px;
+    word-spacing:2px;
+}
+.foot{
+    display:inline-flex;
+}
+.ul2 li{
+    display:inline-flex;
+    padding:15px;
+    text-align:center;
+    font-size:18px;
+    padding-top:30px;
+    border-right: .5px solid white;
+    
+}
+.menu{
+    height:170px;
+    width:550px;
+    border: 1px solid blue;
+    text-align:justify;
+    margin-left:40px;
+    margin-top:10px;
+}
+.menu a{
+    text-decoration: none;
+    color:white;
+    padding-right:9.5px;
+
+}
+.menu ul{
+    background: black;
+   
+}
+.menu p{
+    padding:10px;
+}
+.menu li:hover{
+    background: #11a5e2;
+}
